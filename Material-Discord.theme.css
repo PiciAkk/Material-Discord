@@ -14,9 +14,9 @@
 
 :root {
 	--accent-hue: 51; /*234, 71%, 61%*/
-	--accent-saturation: 71%;
+	--accent-saturation: 611%;
 	--accent-lightness: 71%; /*71%*/
-	--accent-text-color: #b1b4b3; /*#fff*/
+	--accent-text-color: #fff;
 	--accent-button-action: #fff; /*	-	*/
 
 	--avatar-radius: 50%; /*	-	*/
